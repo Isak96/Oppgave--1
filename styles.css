@@ -1,0 +1,9 @@
+h1 {color: rgb(170, 8, 8);
+text-align: center;}
+body {background-image: linear-gradient(rgb(168, 157, 157), rgb(15, 15, 15));
+min-height: 100vh;}
+p {text-align: center;}
+h2 {text-align: center;
+    color: rgb(170, 8, 8);
+    line-height: 5;}
+li {text-align: center;}
